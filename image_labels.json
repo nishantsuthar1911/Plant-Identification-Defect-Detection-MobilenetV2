@@ -1,0 +1,15 @@
+ {
+    "plant":{
+        "0": "Apple",
+        "1": "Bell_Pepper",
+        "2": "Cherry",
+        "3": "Corn_(maize)",
+        "4": "Grape",
+        "5": "Peach",
+        "6": "Potato",
+        "7": "Strawberry",
+        "8": "Tomato"
+    },
+    "is_infected":{"0":"Infected","1":"Healthy"},
+    "infection":{"0":"Powederly_Mildew","1": "Black_Measles","2": "Black_Rot","3": "Blight","4" :"Other","5": "Rust","6":"Scab","7": "Spot"}
+ }
